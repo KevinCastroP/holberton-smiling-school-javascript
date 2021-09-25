@@ -192,30 +192,11 @@ Replace static video card by dynamic loading:
 
 ![](images/pic5.gif)
 
-**6. JSON to XML**
-
-Files: [xml-scripts.js](xml-scripts.js/) - [xml-homepage.html](xml-homepage.html/) - [xml-pricing.html](xml-pricing.html/) - [xml-courses.html](xml-courses.html/)
-
-Convert all your JSON Ajax call to another API… a XML API!
-
-Copy files - same content, except loading xml-scripts.js instead of script.js
-
-- homepage.html -> xml-homepage.html
-- pricing.html -> xml-pricing.html
-- courses.html -> xml-courses.html
-
-And use this API:
-
-- quotes: https://smileschool-api.hbtn.info/xml/quotes
-- popular tutorials: https://smileschool-api.hbtn.info/xml/popular-tutorials
-- latest videos: https://smileschool-api.hbtn.info/xml/latest-videos
-- courses: https://smileschool-api.hbtn.info/xml/courses
-
 Final result should be the same as the JSON API version
 
 
 
-## :sagittarius: Author
+## :virgo: Author
 
 > :man: Kevin Castro
 
